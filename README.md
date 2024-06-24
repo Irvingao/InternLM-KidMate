@@ -40,7 +40,7 @@
 
 ## 特别致谢
 
-感谢[书生·浦语团队](https://github.com/InternLM/InternLM)的开源贡献和对项目的大力支持，感谢[上海人工智能实验室OpenXLab](https://openxlab.org.cn/)和[深圳科创学院InnoxSZ](https://www.innoxsz.com/)提供的算力及服务器支持，感谢[ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya)开源项目和中国科学技术大学生物医学工程学院[]！！！
+感谢[书生·浦语团队](https://github.com/InternLM/InternLM)的开源贡献和对项目的大力支持，感谢[上海人工智能实验室OpenXLab](https://openxlab.org.cn/)和[深圳科创学院InnoxSZ](https://www.innoxsz.com/)提供的算力及服务器支持，感谢[ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya)开源项目和中国科学技术大学生物医学工程学院的大力支持！！！
 
 
 
