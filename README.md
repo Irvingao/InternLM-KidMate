@@ -163,7 +163,7 @@ lmdeploy serve api_server swk_workspace --server-name ${gradio_ui_ip} --server-p
 
 ## 数据的组成
 
-项目数据由开源项目数据集[ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya)组成，包含32个ChatHaruhi本身角色 + 15个网友抽取角色 + 95英文角色(from RoleLLM)：
+项目训练数据分为两阶段，第一阶段由开源项目数据集[ChatHaruhi](https://github.com/LC1332/Chat-Haruhi-Suzumiya)组成，包含32个ChatHaruhi本身角色 + 15个网友抽取角色 + 95英文角色(from RoleLLM)，用来提升模型的角色扮演基座效果；第二阶段数据由真实数据样本组成，数据来源自两方面，一方面是自闭症言语治疗师的访谈和收集，另一方面是通过前一部分真实数据样本，配合场景规则，使用GPT合成语料数据。
 
 ```
 git clone https://huggingface.co/datasets/silk-road/ChatHaruhi-Expand-118K
